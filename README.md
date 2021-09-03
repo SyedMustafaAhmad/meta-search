@@ -13,7 +13,7 @@ The time complexity to generate the meta -ata is O^(n). The time for actual comp
 
 ## How to use
 Pass two text files as arguements e.g.
-``console
+```console
 ./metacomp "file1" "file2"
 ```
 The algorithm will let you know if the search was successful or not and why.
