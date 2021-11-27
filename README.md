@@ -2,7 +2,7 @@
 A search algorithm that compares meta data of two strings, text or files and uses the meta data table to faster evaluate any differences. Any other search algorithm can be implemented after this check.
 
 ## Complexity
-The time complexity to generate the meta -ata is O^(n). The time for actual comparion is m where m is the number of parameters in the meta-data.
+The time complexity to generate the meta data is O^(n). The time for actual comparion is m where m is the number of parameters in the meta-data.
 
 ## Parameters for the meta-data
 - Count of characters
